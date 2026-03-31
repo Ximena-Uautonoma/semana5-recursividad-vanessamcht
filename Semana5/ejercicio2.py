@@ -8,14 +8,8 @@ Debe implementar:
 """
 
 def suma_ciclo(n):
-    """
-    Retorna la suma de los primeros n números usando un ciclo.
-    """
-    pass
+    #retorna la suma de los primeros n numeros usando un ciclo 
 
 
 def suma_recursiva(n):
-    """
-    Retorna la suma de los primeros n números usando recursividad.
-    """
-    pass
+    #retorna la suma de los primeros n números usando recursividad 

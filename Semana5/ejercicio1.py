@@ -20,6 +20,3 @@ def contar_recursivo(n):
     #Retorna una lista con los numeros desde 1 hasta n usando recursividad
     
     #Escriba aquí su solución y borre la palabra pass de acontinuación
-    if n == 1: 
-        return 1
-    

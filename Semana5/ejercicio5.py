@@ -18,4 +18,3 @@ def potencia_recursiva(base, exponente):
     else: 
         return base * potencia_recursiva(base, exponente - 1)
     
-    pass 

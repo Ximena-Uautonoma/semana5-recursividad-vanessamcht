@@ -15,12 +15,9 @@ def contar_ciclo(n):
 
 def contar_recursivo(n):
     #Retorna una lista con los numeros desde 1 hasta n usando recursividad
-     if n == 1 : 
+    if n == 1 : 
         return [1]
     else: 
         lista = contar_recursivo(n-1)
         lista.append(n)
         return lista
-        
-print(contar_ciclo(7))
-print(contar_recursivo(7)))
